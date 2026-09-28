@@ -1,5 +1,5 @@
 // =============================================================================
-// OpenList-TSWorker · Cloudflare Workers 配置
+// OpenList-TSWorker · Cloudflare Workers 配置 test
 // 文档：https://developers.cloudflare.com/workers/wrangler/configuration/
 //
 // ⚠️ 本文件只声明 KV 一个存储绑定（见文件末 kv_namespaces），D1 / DO 等
